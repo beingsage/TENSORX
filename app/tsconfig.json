@@ -1,0 +1,84 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "target": "ES6",
+    "skipLibCheck": true,
+    "strict": true,
+    "noImplicitAny": false,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/api/*": [
+        "./server/api/*"
+      ],
+      "@/components/ui/*": [
+        "./app/(workspace)/_components/ui/*"
+      ],
+      "@/components/workspace/AuthCard": [
+        "./app/(auth)/_components/AuthCard.tsx"
+      ],
+      "@/components/workspace/*": [
+        "./app/(workspace)/_components/workspace/*"
+      ],
+      "@/components/ValuationResults/*": [
+        "./app/valuation-results/[id]/_components/ValuationResults/*"
+      ],
+      "@/components/noidea/*": [
+        "./app/valuation-results/[id]/_components/noidea/*"
+      ],
+      "@/components/*": [
+        "./app/(workspace)/_components/*",
+        "./app/valuation-results/[id]/_components/*",
+        "./app/(auth)/_components/*"
+      ],
+      "@/hooks/*": [
+        "./app/(workspace)/_hooks/*"
+      ],
+      "@/lib/server-auth": [
+        "./server/api/lib/page-auth.ts"
+      ],
+      "@/lib/utils": [
+        "./app/(workspace)/_components/ui/utils.ts"
+      ],
+      "@/lib/utils/geo": [
+        "./server/api/lib/utils/geo.ts"
+      ],
+      "@loaders.gl/loader-utils": [
+        "./types/loaders-gl-loader-utils.d.ts"
+      ],
+      "@/lib/*": [
+        "./server/api/lib/*"
+      ],
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    ".next/dev/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "interior"
+  ]
+}

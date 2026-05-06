@@ -1,0 +1,13 @@
+path: datasets/materials
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: brick
+  1: concrete
+  2: glass
+  3: paint
+  4: plaster
+  5: stone
+

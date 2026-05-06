@@ -1,0 +1,171 @@
+{
+  "generatedAt": "2026-03-22T11:43:32.335Z",
+  "count": 33,
+  "textures": [
+    {
+      "name": "163 Aged Oak",
+      "url": "textures/163 Aged Oak.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Black",
+      "url": "textures/black.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Frosted 0",
+      "url": "textures/frosted-0.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Frosted 100",
+      "url": "textures/frosted-100.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Frosted 25",
+      "url": "textures/frosted-25.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Frosted 50",
+      "url": "textures/frosted-50.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Frosted 75",
+      "url": "textures/frosted-75.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Gray",
+      "url": "textures/gray.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Mahogany W365",
+      "url": "textures/Mahogany-w365.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Room Hdr 01",
+      "url": "textures/room-hdr-01.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Seamless 01",
+      "url": "textures/seamless-01.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Seamless 02",
+      "url": "textures/seamless-02.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Silver",
+      "url": "textures/silver.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Thumb Door Glass",
+      "url": "textures/thumb-door-glass.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Thumb Door Panel",
+      "url": "textures/thumb-door-panel.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Thumb Grommet All",
+      "url": "textures/thumb-grommet-all.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Thumb Grommet Cg",
+      "url": "textures/thumb-grommet-cg.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Thumb Grommet Cog",
+      "url": "textures/thumb-grommet-cog.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Thumb Grommet Lg",
+      "url": "textures/thumb-grommet-lg.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Thumb Grommet Lrg",
+      "url": "textures/thumb-grommet-lrg.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Thumb Grommet Ng",
+      "url": "textures/thumb-grommet-ng.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Thumb Grommet Rg",
+      "url": "textures/thumb-grommet-rg.jpg",
+      "category": "global"
+    },
+    {
+      "name": "W155",
+      "url": "textures/W155.jpg",
+      "category": "global"
+    },
+    {
+      "name": "Blank",
+      "url": "rooms/textures/blank.png",
+      "category": "room"
+    },
+    {
+      "name": "Hardwood",
+      "url": "rooms/textures/hardwood.png",
+      "category": "room"
+    },
+    {
+      "name": "Light Brick",
+      "url": "rooms/textures/light_brick.jpg",
+      "category": "room"
+    },
+    {
+      "name": "Light Fine Wood",
+      "url": "rooms/textures/light_fine_wood.jpg",
+      "category": "room"
+    },
+    {
+      "name": "Marbletiles",
+      "url": "rooms/textures/marbletiles.jpg",
+      "category": "room"
+    },
+    {
+      "name": "Tile 01",
+      "url": "rooms/textures/tile-01.jpg",
+      "category": "room"
+    },
+    {
+      "name": "Tile 02",
+      "url": "rooms/textures/tile-02.jpg",
+      "category": "room"
+    },
+    {
+      "name": "Walllightmap",
+      "url": "rooms/textures/walllightmap.png",
+      "category": "room"
+    },
+    {
+      "name": "Wallmap",
+      "url": "rooms/textures/wallmap.png",
+      "category": "room"
+    },
+    {
+      "name": "Wallmap Yellow",
+      "url": "rooms/textures/wallmap_yellow.png",
+      "category": "room"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+# v0 sandbox internal files
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+.snowflake/
+.v0-trash/
+.vercel/
+next.user-config.*
+
+# Environment variables
+.env*.local
+
+# Common ignores
+node_modules
+.next/
+.DS_Store
+.vercel
+.runtime
+
+_pycache__
+
+train_images.npy
+processed.csv
+amne_ds_onsite_dataset.csv
+model.csv
+raw_dataset/*
+test.glb
+cloudflare.exe
+*.glb
+
+.env

@@ -1,0 +1,277 @@
+.bp3d-root {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at top, rgba(34, 211, 238, 0.08), transparent 35%),
+    linear-gradient(180deg, #0f172a 0%, #020617 100%);
+  color: #e5e7eb;
+}
+
+.bp3d-root .main-row {
+  padding: 0;
+  height: 100%;
+}
+
+.bp3d-root .sidebar {
+  padding: 20px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  border-right: 1px solid #1f2937;
+  height: 100%;
+  background: #0b0f14;
+}
+
+.bp3d-root .nav-sidebar {
+  margin-right: -21px;
+  margin-bottom: 20px;
+  margin-left: -20px;
+}
+
+.bp3d-root .nav-sidebar > li > a {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.bp3d-root .nav-sidebar > .active > a,
+.bp3d-root .nav-sidebar > .active > a:hover,
+.bp3d-root .nav-sidebar > .active > a:focus {
+  color: #fff;
+  background-color: #1e293b;
+}
+
+.bp3d-root .main {
+  padding: 0;
+  height: 100%;
+  position: relative;
+  background:
+    radial-gradient(circle at top right, rgba(56, 189, 248, 0.08), transparent 30%),
+    radial-gradient(circle at bottom left, rgba(16, 185, 129, 0.05), transparent 28%),
+    linear-gradient(180deg, #0f172a 0%, #020617 100%);
+}
+
+.bp3d-root #loading-modal {
+  position: absolute;
+  z-index: 10;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  background-color: rgba(5, 7, 10, 0.82);
+  backdrop-filter: blur(14px);
+}
+
+.bp3d-root #loading-modal h1 {
+  text-align: center;
+  margin-top: 30%;
+  color: #fff;
+}
+
+.bp3d-root #viewer,
+.bp3d-root #floorplanner,
+.bp3d-root #add-items {
+  display: none;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background:
+    radial-gradient(circle at top, rgba(34, 211, 238, 0.06), transparent 40%),
+    linear-gradient(180deg, rgba(15, 23, 42, 0.95) 0%, rgba(2, 6, 23, 0.98) 100%);
+}
+
+.bp3d-root #viewer,
+.bp3d-root #floorplanner,
+.bp3d-root #floorplanner-canvas,
+.bp3d-root #viewer canvas {
+  touch-action: none;
+  overscroll-behavior: contain;
+}
+
+.bp3d-root #viewer::before,
+.bp3d-root #floorplanner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    linear-gradient(rgba(148, 163, 184, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(148, 163, 184, 0.06) 1px, transparent 1px);
+  background-size: 56px 56px;
+  mask-image: linear-gradient(180deg, rgba(255, 255, 255, 0.5), transparent 95%);
+  opacity: 0.35;
+}
+
+.bp3d-root #viewer::after,
+.bp3d-root #floorplanner::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at top, rgba(255, 255, 255, 0.1), transparent 35%),
+    linear-gradient(180deg, transparent 0%, rgba(2, 6, 23, 0.2) 100%);
+}
+
+.bp3d-root #floorplanner-canvas,
+.bp3d-root #viewer canvas {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.bp3d-root #add-items {
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.bp3d-root #main-controls {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  padding: 0;
+  display: none;
+}
+
+.bp3d-root #camera-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 0;
+  padding: 0 20px;
+  text-align: right;
+  display: none;
+}
+
+.bp3d-root #floorplanner-controls {
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: 20px 0;
+  padding: 0 20px;
+  width: 100%;
+  display: none;
+}
+
+.bp3d-root #draw-walls-hint {
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+  background-color: rgba(2, 6, 23, 0.68);
+  color: #ffffff;
+  padding: 8px 12px;
+  z-index: 10;
+  display: none;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 999px;
+  backdrop-filter: blur(10px);
+}
+
+.bp3d-root .add-item {
+  cursor: pointer;
+}
+
+.bp3d-root .btn-file {
+  display: inline-block;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.bp3d-root .btn-file input[type=file] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  min-width: 100%;
+  min-height: 100%;
+  opacity: 0;
+  cursor: inherit;
+  display: block;
+}
+
+/* Sidebar catalog (Blueprint3D Add Items) */
+.bp3d-items-panel #add-items {
+  display: block !important;
+  height: auto !important;
+  padding: 0;
+  background: transparent;
+  color: #e5e7eb;
+}
+
+.bp3d-items-panel #items-controls {
+  padding: 8px 10px !important;
+}
+
+.bp3d-items-panel .form-control,
+.bp3d-items-panel select {
+  background: #0f172a;
+  border: 1px solid #273449;
+  color: #e5e7eb;
+  border-radius: 8px;
+  height: 32px;
+  font-size: 12px;
+}
+
+.bp3d-items-panel .form-control::placeholder {
+  color: #94a3b8;
+}
+
+.bp3d-items-panel .text-muted {
+  color: #94a3b8 !important;
+}
+
+.bp3d-items-panel .row {
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.bp3d-items-panel .row > .col-sm-4 {
+  width: auto;
+  padding: 0;
+  float: none;
+}
+
+.bp3d-items-panel .thumbnail {
+  display: block;
+  background: rgba(15, 23, 42, 0.82);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  color: #cbd5e1;
+  border-radius: 16px;
+  padding: 10px;
+  text-align: center;
+  transition: border-color 0.2s ease, background-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}
+
+.bp3d-items-panel .thumbnail:hover {
+  border-color: rgba(34, 211, 238, 0.4);
+  background: rgba(15, 23, 42, 0.95);
+  color: #ffffff;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+.bp3d-items-panel .thumbnail img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 6px;
+}
+
+.bp3d-items-panel #items-load-more {
+  background: #111827;
+  border: 1px solid #273449;
+  color: #e5e7eb;
+  border-radius: 8px;
+  font-size: 12px;
+}
+
+.bp3d-items-panel #items-load-more:hover {
+  border-color: #3b82f6;
+  color: #ffffff;
+}
+
+.bp3d-items-panel #textures-section h4 {
+  font-size: 12px;
+  color: #e5e7eb;
+}

@@ -1,0 +1,11 @@
+path: datasets/defects
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: crack
+  1: spall
+  2: corrosion
+  3: water_damage
+

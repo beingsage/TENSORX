@@ -1,0 +1,6245 @@
+{
+  "generatedAt": "2026-03-22T12:25:46.817Z",
+  "count": 891,
+  "items": [
+    {
+      "name": "[GLB] 3bf5503e4b5e112569b08f3e89af1321 (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/3bf5503e4b5e112569b08f3e89af1321 (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] 787391B PANEL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/787391B-PANEL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] 787391B PANEL Low",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/787391B-PANEL_Low.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] 787391M PANEL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/787391M-PANEL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] 787391M PANEL Low",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/787391M-PANEL_Low.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] 8158",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/8158.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] 8158 (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/8158 (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] 8158 Low",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/8158_Low.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] AS1813 HIDROMASAJE",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/AS1813-HIDROMASAJE.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] AS1813 HIDROMASAJE Low",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/AS1813-HIDROMASAJE_Low.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] AS236 HIDRO ESQ",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/AS236-HIDRO-ESQ.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] AS236 HIDRO ESQ Low",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/AS236-HIDRO-ESQ_Low.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] AS501B HIDRO",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/AS501B-HIDRO.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] AS501B HIDRO Low",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/AS501B-HIDRO_Low.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BathroomCabinet",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bathroomCabinet.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BathroomCabinetDrawer",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bathroomCabinetDrawer.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BathroomMirror",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bathroomMirror.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BathroomSink",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bathroomSink.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BathroomSinkSquare",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bathroomSinkSquare.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Bathtub",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bathtub.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BC MB",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BC-MB.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BC RC",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BC-RC.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BC SB",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BC-SB.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Bear",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bear.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BedBunk",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bedBunk.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BedDouble",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bedDouble.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BedSingle",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bedSingle.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Bench",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bench.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BenchCushion",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/benchCushion.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BenchCushionLow",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/benchCushionLow.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Bidet De Colgar",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bidet de colgar.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Bin1",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/bin1.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BookcaseClosed",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bookcaseClosed.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BookcaseClosedDoors",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bookcaseClosedDoors.glb",
+      "type": "7",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BookcaseClosedWide",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bookcaseClosedWide.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BookcaseOpen",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bookcaseOpen.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BookcaseOpenLow",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/bookcaseOpenLow.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Books",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/books.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BR BML",
+      "image": "models/thumbnails/br-bml.jpg",
+      "model": "models/glb-legacy/BR-BML.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BR BMR",
+      "image": "models/thumbnails/br-bmr.jpg",
+      "model": "models/glb-legacy/BR-BMR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BR RB",
+      "image": "models/thumbnails/br-rb.jpg",
+      "model": "models/glb-legacy/BR-RB.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BR WL",
+      "image": "models/thumbnails/br-wl.jpg",
+      "model": "models/glb-legacy/BR-WL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BR WR",
+      "image": "models/thumbnails/br-wr.jpg",
+      "model": "models/glb-legacy/BR-WR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC 2DH GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-2DH-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC 2DH PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-2DH-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC 2DL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-2DL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC 2DL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-2DL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC LDH GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-LDH-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC LDH PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-LDH-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC LDL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-LDL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC LDL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-LDL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC LORDH GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-LORDH-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC LORDH PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-LORDH-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC LORDL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-LORDL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC LORDL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-LORDL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC OP",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-OP.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC RDH GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-RDH-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC RDH PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-RDH-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC RDL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-RDL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC RDL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-RDL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC ROLDH GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-ROLDH-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC ROLDH PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-ROLDH-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC ROLDL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-ROLDL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] BSC ROLDL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/BSC-ROLDL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] CabinetBed",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/cabinetBed.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] CabinetBedDrawer",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/cabinetBedDrawer.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] CabinetBedDrawerTable",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/cabinetBedDrawerTable.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] CabinetTelevision",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/cabinetTelevision.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] CabinetTelevisionDoors",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/cabinetTelevisionDoors.glb",
+      "type": "7",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] CardboardBoxClosed",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/cardboardBoxClosed.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] CardboardBoxOpen",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/cardboardBoxOpen.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Chair",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/chair.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] ChairCushion",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/chairCushion.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] ChairDesk",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/chairDesk.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] ChairModernCushion",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/chairModernCushion.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] ChairModernFrameCushion",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/chairModernFrameCushion.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] ChairRounded",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/chairRounded.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] CoatRack",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/coatRack.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] CoatRackStanding",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/coatRackStanding.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] ComputerKeyboard",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/computerKeyboard.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] ComputerMouse",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/computerMouse.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] ComputerScreen",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/computerScreen.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Desk",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/desk.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK BF",
+      "image": "models/thumbnails/desk-bf.jpg",
+      "model": "models/glb-legacy/DESK-BF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK ECUL24C24E",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/DESK-ECUL24C24E.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK ECUL24C30E",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/DESK-ECUL24C30E.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK ECUL30C24E",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/DESK-ECUL30C24E.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK ECUL30C30E",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/DESK-ECUL30C30E.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK ECUR24C24E",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/DESK-ECUR24C24E.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK ECUR24C30E",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/DESK-ECUR24C30E.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK ECUR30C24E",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/DESK-ECUR30C24E.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK ECUR30C30E",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/DESK-ECUR30C30E.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK FMB",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/DESK-FMB.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK FMR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/DESK-FMR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK RCL",
+      "image": "models/thumbnails/desk-rcl.jpg",
+      "model": "models/glb-legacy/DESK-RCL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK RCR",
+      "image": "models/thumbnails/desk-rcr.jpg",
+      "model": "models/glb-legacy/DESK-RCR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK RFF",
+      "image": "models/thumbnails/desk-rff.jpg",
+      "model": "models/glb-legacy/DESK-RFF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK RFFLHG",
+      "image": "models/thumbnails/desk-rfflhg.jpg",
+      "model": "models/glb-legacy/DESK-RFFLHG.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK RFFLRHG",
+      "image": "models/thumbnails/desk-rfflrhg.jpg",
+      "model": "models/glb-legacy/DESK-RFFLRHG.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK RFFRHG",
+      "image": "models/thumbnails/desk-rffrhg.jpg",
+      "model": "models/glb-legacy/DESK-RFFRHG.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK RRF",
+      "image": "models/thumbnails/desk-rrf.JPG",
+      "model": "models/glb-legacy/DESK-RRF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK WVL",
+      "image": "models/thumbnails/desk-wvl.jpg",
+      "model": "models/glb-legacy/DESK-WVL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DESK WVR",
+      "image": "models/thumbnails/desk-wvr.jpg",
+      "model": "models/glb-legacy/DESK-WVR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DeskCorner",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/deskCorner.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Door",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/door.glb",
+      "type": "7",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Doorway",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/doorway.glb",
+      "type": "7",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DoorwayFront",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/doorwayFront.glb",
+      "type": "7",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] DoorwayOpen",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/doorwayOpen.glb",
+      "type": "7",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Dryer",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/dryer.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] EMV101B MUEBLE",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/EMV101B-MUEBLE.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] EMV101B MUEBLE Low",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/EMV101B-MUEBLE_Low.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] FILING 1DR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/FILING-1DR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] FILING 2DR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/FILING-2DR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] FILING 3DR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/FILING-3DR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] FILING 4DR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/FILING-4DR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] FILING 4DRO",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/FILING-4DRO.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] FloorCorner",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/floorCorner.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] FloorCornerRound",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/floorCornerRound.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] FloorFull",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/floorFull.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] FloorHalf",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/floorHalf.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] G 009 PANEL GR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/G-009-PANEL-GR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] G 009 PANEL GR (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/G-009-PANEL-GR (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] GU830 CABINA",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/GU830-CABINA.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] GU830 CABINA (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/GU830-CABINA (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HoodLarge",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/hoodLarge.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HoodModern",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/hoodModern.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HOR ARR TEST",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HOR-ARR-TEST.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 2HD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-2HD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 2HD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-2HD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 2HDC GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-2HDC-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 2HDC PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-2HDC-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 2HDOL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-2HDOL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 2HDOL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-2HDOL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 2HDOLC GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-2HDOLC-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 2HDOLC PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-2HDOLC-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 2HDOR GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-2HDOR-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 2HDOR PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-2HDOR-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 2HDORC GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-2HDORC-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 2HDORC PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-2HDORC-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 2SO",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-2SO.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 2SOC",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-2SOC.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 3HD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-3HD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 3HD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-3HD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 3HDC GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-3HDC-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 3HDC PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-3HDC-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 3SO",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-3SO.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 3SOC",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-3SOC.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 4HD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-4HD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 4HD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-4HD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 4HDC GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-4HDC-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 4HDC PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-4HDC-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 4SO",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-4SO.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH DM 4SOC",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-DM-4SOC.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 2HD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-2HD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 2HD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-2HD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 2HDC GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-2HDC-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 2HDC PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-2HDC-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 2HDOL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-2HDOL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 2HDOL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-2HDOL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 2HDOLC GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-2HDOLC-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 2HDOLC PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-2HDOLC-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 2HDOR GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-2HDOR-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 2HDOR PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-2HDOR-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 2HDORC GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-2HDORC-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 2HDORC PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-2HDORC-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 2SO",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-2SO.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 2SOC",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-2SOC.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 3HD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-3HD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 3HD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-3HD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 3HDC GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-3HDC-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 3HDC PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-3HDC-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 3SO",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-3SO.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 3SOC",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-3SOC.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 4HD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-4HD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 4HD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-4HD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 4HDC GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-4HDC-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 4HDC PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-4HDC-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 4SO",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-4SO.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] HUTCH WM 4SOC",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/HUTCH-WM-4SOC.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1BODT",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1BODT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1BODT SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1BODT-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1D102VD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1D102VD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1D102VD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1D102VD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1D10LVD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1D10LVD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1D10LVD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1D10LVD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1D10RVD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1D10RVD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1D10RVD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1D10RVD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1D62VD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1D62VD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1D62VD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1D62VD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1D6LVD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1D6LVD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1D6LVD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1D6LVD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1D6RVD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1D6RVD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1D6RVD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1D6RVD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1DD102VDS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1DD102VDS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1DD102VDS SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1DD102VDS-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1DD62VDS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1DD62VDS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 1DD62VDS SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-1DD62VDS-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 2BOD15",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-2BOD15.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 2BOD15 SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-2BOD15-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 2BODT",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-2BODT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 2BODT SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-2BODT-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 2D62VD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-2D62VD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 2D62VD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-2D62VD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 2D6LVD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-2D6LVD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 2D6LVD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-2D6LVD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 2D6RVD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-2D6RVD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 2D6RVD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-2D6RVD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 2VDS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-2VDS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 2VDS SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-2VDS-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 3BOD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-3BOD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 3BOD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-3BOD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 3BOD10",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-3BOD10.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 3BOD10 SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-3BOD10-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 4BOD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-4BOD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC 4BOD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-4BOD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC BCL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-BCL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC BCL SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-BCL-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC BCR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-BCR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC BCR SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-BCR-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC LVD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-LVD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC LVD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-LVD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC RVD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-RVD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC RVD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-RVD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT BC VO",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-BC-VO.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT TC 2VD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-TC-2VD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT TC 2VD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-TC-2VD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT TC LVD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-TC-LVD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT TC LVD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-TC-LVD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT TC RVD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-TC-RVD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT TC RVD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-TC-RVD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT TC VO",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-TC-VO.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC 1HD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-1HD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC 1HD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-1HD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC 2HD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-2HD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC 2HD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-2HD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC 2VD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-2VD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC 2VD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-2VD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC 2VDM",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-2VDM.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC 2VDM SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-2VDM-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC BCL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-BCL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC BCL SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-BCL-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC BCR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-BCR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC BCR SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-BCR-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC HDM",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-HDM.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC HDM SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-HDM-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC HO",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-HO.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC HOHD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-HOHD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC HOHD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-HOHD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC LVD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-LVD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC LVD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-LVD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC RVD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-RVD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC RVD SL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-RVD-SL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KIT WC VO",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/KIT-WC-VO.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenBar",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenBar.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenBarEnd",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenBarEnd.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenBlender",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenBlender.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenCabinet",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenCabinet.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenCabinetCornerInner",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenCabinetCornerInner.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenCabinetCornerRound",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenCabinetCornerRound.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenCabinetDrawer",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenCabinetDrawer.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenCabinetUpper",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenCabinetUpper.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenCabinetUpperCorner",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenCabinetUpperCorner.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenCabinetUpperDouble",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenCabinetUpperDouble.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenCabinetUpperLow",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenCabinetUpperLow.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenCoffeeMachine",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenCoffeeMachine.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenFridge",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenFridge.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenFridgeBuiltIn",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenFridgeBuiltIn.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenFridgeLarge",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenFridgeLarge.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenFridgeSmall",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenFridgeSmall.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenMicrowave",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenMicrowave.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenSink",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenSink.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenStove",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenStove.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] KitchenStoveElectric",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/kitchenStoveElectric.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LampRoundFloor",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/lampRoundFloor.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LampRoundTable",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/lampRoundTable.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LampSquareCeiling",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/lampSquareCeiling.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LampSquareFloor",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/lampSquareFloor.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LampSquareTable",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/lampSquareTable.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LampWall",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/lampWall.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Laptop",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/laptop.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LB 750B MUEBLE",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/LB-750B-MUEBLE.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LB 750B MUEBLE (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/LB-750B-MUEBLE (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LBC 2DBF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LBC-2DBF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LBC BF2D",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LBC-BF2D.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LBC BFBF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LBC-BFBF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LBC BFO",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LBC-BFO.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LBC OBF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LBC-OBF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LBC OP",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LBC-OP.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LoungeChair",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/loungeChair.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LoungeChairRelax",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/loungeChairRelax.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LoungeDesignChair",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/loungeDesignChair.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LoungeDesignSofa",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/loungeDesignSofa.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LoungeDesignSofaCorner",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/loungeDesignSofaCorner.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LoungeSofa",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/loungeSofa.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LoungeSofaCorner",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/loungeSofaCorner.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LoungeSofaLong",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/loungeSofaLong.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LoungeSofaOttoman",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/loungeSofaOttoman.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D 2D GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-2D-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D 2D PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-2D-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D BBBBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-BBBBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D BBBBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-BBBBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D BBFL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-BBFL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D BBFL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-BBFL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D BBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-BBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D BBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-BBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D BBOL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-BBOL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D BBOL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-BBOL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D FBBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-FBBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D FBBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-FBBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D LL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-LL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D LL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-LL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D LLL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-LLL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D LLL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-LLL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D OBBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-OBBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D OBBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-OBBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D OP GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-OP-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2D OP PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2D-OP-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD 2D GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-2D-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD 2D PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-2D-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD BBBBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-BBBBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD BBBBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-BBBBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD BBFL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-BBFL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD BBFL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-BBFL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD BBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-BBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD BBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-BBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD BBOL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-BBOL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD BBOL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-BBOL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD FBBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-FBBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD FBBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-FBBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD LL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-LL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD LL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-LL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD OBBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-OBBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD OBBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-OBBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD OP GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-OP-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2HD OP PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2HD-OP-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD 2D GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-2D-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD 2D PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-2D-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD BBBBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-BBBBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD BBBBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-BBBBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD BBFL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-BBFL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD BBFL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-BBFL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD BBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-BBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD BBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-BBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD BBOL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-BBOL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD BBOL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-BBOL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD FBBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-FBBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD FBBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-FBBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD LL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-LL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD LL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-LL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD OBBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-OBBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD OBBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-OBBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD OP GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-OP-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST 2QD OP PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-2QD-OP-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LD BBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LD-BBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LD BBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LD-BBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LD LD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LD-LD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LD LD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LD-LD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LD LL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LD-LL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LD LL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LD-LL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LD LLL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LD-LLL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LD LLL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LD-LLL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LD OP GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LD-OP-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LD OP PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LD-OP-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO 2D GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-2D-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO 2D PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-2D-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO BBBBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-BBBBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO BBBBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-BBBBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO BBFL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-BBFL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO BBFL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-BBFL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO BBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-BBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO BBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-BBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO BBOL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-BBOL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO BBOL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-BBOL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO FBBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-FBBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO FBBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-FBBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO LL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-LL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO LL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-LL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO LLL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-LLL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO LLL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-LLL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO OBBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-OBBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO OBBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-OBBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO OP GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-OP-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LDHO OP PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LDHO-OP-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LHD LD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LHD-LD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LHD LD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LHD-LD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LHD OP GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LHD-OP-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LHD OP PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LHD-OP-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LQD LD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LQD-LD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LQD LD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LQD-LD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LQD OP GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LQD-OP-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST LQD OP PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-LQD-OP-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST OP 2D GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-OP-2D-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST OP 2D PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-OP-2D-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST OP BBBBL",
+      "image": "models/thumbnails/lst-op-bbbbl.jpg",
+      "model": "models/glb-legacy/LST-OP-BBBBL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST OP BBFL",
+      "image": "models/thumbnails/lst-op-bbfl.jpg",
+      "model": "models/glb-legacy/LST-OP-BBFL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST OP BBL",
+      "image": "models/thumbnails/lst-op-bbl.jpg",
+      "model": "models/glb-legacy/LST-OP-BBL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST OP BBOL",
+      "image": "models/thumbnails/lst-op-bbol.jpg",
+      "model": "models/glb-legacy/LST-OP-BBOL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST OP FBBL",
+      "image": "models/thumbnails/lst-op-fbbl.jpg",
+      "model": "models/glb-legacy/LST-OP-FBBL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST OP LD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-OP-LD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST OP LD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-OP-LD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST OP LL",
+      "image": "models/thumbnails/lst-op-ll.jpg",
+      "model": "models/glb-legacy/LST-OP-LL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST OP LLL",
+      "image": "models/thumbnails/lst-op-lll.jpg",
+      "model": "models/glb-legacy/LST-OP-LLL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST OP OBBL",
+      "image": "models/thumbnails/lst-op-obbl.jpg",
+      "model": "models/glb-legacy/LST-OP-OBBL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST OP OP",
+      "image": "models/thumbnails/lst-op-op.jpg",
+      "model": "models/glb-legacy/LST-OP-OP.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST OP RD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-OP-RD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST OP RD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-OP-RD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RD BBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RD-BBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RD BBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RD-BBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RD LL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RD-LL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RD LL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RD-LL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RD LLL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RD-LLL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RD LLL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RD-LLL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RD OP GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RD-OP-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RD OP PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RD-OP-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RD RD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RD-RD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RD RD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RD-RD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO 2D GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-2D-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO 2D PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-2D-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO BBBBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-BBBBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO BBBBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-BBBBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO BBFL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-BBFL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO BBFL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-BBFL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO BBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-BBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO BBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-BBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO BBOL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-BBOL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO BBOL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-BBOL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO FBBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-FBBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO FBBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-FBBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO LL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-LL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO LL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-LL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO LLL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-LLL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO LLL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-LLL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO OBBL GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-OBBL-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO OBBL PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-OBBL-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO OP GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-OP-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RDHO OP PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RDHO-OP-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RHD OP GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RHD-OP-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RHD OP PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RHD-OP-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RHD RD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RHD-RD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RHD RD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RHD-RD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RQD OP GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RQD-OP-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RQD OP PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RQD-OP-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RQD RD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RQD-RD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] LST RQD RD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/LST-RQD-RD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] M8817 MUEBLE NEGRO",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/M8817-MUEBLE-NEGRO.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] M8817 MUEBLE NEGRO (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/M8817-MUEBLE-NEGRO (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] MTB NEST",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/MTB-NEST.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] MTB SPIDER 24",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/MTB-SPIDER-24.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] MTB SPIDER 26",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/MTB-SPIDER-26.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] MTB SPIDER 30",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/MTB-SPIDER-30.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] MTB SPIDER 36",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/MTB-SPIDER-36.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] MTB TBASE",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/MTB-TBASE.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] MTB TRUMPET 18",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/MTB-TRUMPET-18.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] MTB TRUMPET 24",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/MTB-TRUMPET-24.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] MTB TRUMPET 30",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/MTB-TRUMPET-30.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Mueble",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/mueble.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Mueble BañO Madera",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/mueble baño madera.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] NLEG RM4B",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/NLEG-RM4B.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] NLEG RM4BMS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/NLEG-RM4BMS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] NLEG2 DE4BMS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/NLEG2-DE4BMS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] NLEG2 DE4BOS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/NLEG2-DE4BOS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] NLEG2 DM4BMS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/NLEG2-DM4BMS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] NLEG2 DM4BOS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/NLEG2-DM4BOS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] NLEG2 SE2B",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/NLEG2-SE2B.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] NLEG2 SE2BMS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/NLEG2-SE2BMS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] NLEG2 SM4B",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/NLEG2-SM4B.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] NLEG2 SM4BMS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/NLEG2-SM4BMS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OLEG RM4B",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/OLEG-RM4B.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OLEG RM4BMS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/OLEG-RM4BMS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OLEG2 DE4BMS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/OLEG2-DE4BMS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OLEG2 DE4BOS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/OLEG2-DE4BOS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OLEG2 DM8BMS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/OLEG2-DM8BMS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OLEG2 DM8BOS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/OLEG2-DM8BOS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OLEG2 RM8BMS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/OLEG2-RM8BMS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OLEG2 RM8BOS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/OLEG2-RM8BOS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OLEG2 SE2B",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/OLEG2-SE2B.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OLEG2 SE2BMS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/OLEG2-SE2BMS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OLEG2 SM4B",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/OLEG2-SM4B.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OLEG2 SM4BMS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/OLEG2-SM4BMS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8113",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8113.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8116",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8116.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8121",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8121.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8122",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8122.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8124",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8124.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8125",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8125.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8134",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8134.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8911",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8911.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8912",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8912.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8913",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8913.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8915",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8915.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8921",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8921.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8922",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8922.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8924",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8924.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8927",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8927.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8934",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8934.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8936",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8936.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] OUDASI ODS 8981",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/OUDASI_ODS-8981.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Panel",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/panel .glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Paneling",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/paneling.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Panelito",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/panelito .glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PDESK ARKL",
+      "image": "models/thumbnails/pdesk-arkl.jpg",
+      "model": "models/glb-legacy/PDESK-ARKL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PDESK ARKR",
+      "image": "models/thumbnails/pdesk-arkr.jpg",
+      "model": "models/glb-legacy/PDESK-ARKR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PDESK BOOML",
+      "image": "models/thumbnails/pdesk-booml.jpg",
+      "model": "models/glb-legacy/PDESK-BOOML.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PDESK BOOMR",
+      "image": "models/thumbnails/pdesk-boomr.jpg",
+      "model": "models/glb-legacy/PDESK-BOOMR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PDESK DTL",
+      "image": "models/thumbnails/pdesk-dtl.jpg",
+      "model": "models/glb-legacy/PDESK-DTL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PDESK DTR",
+      "image": "models/thumbnails/pdesk-dtr.jpg",
+      "model": "models/glb-legacy/PDESK-DTR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PDESK JTL",
+      "image": "models/thumbnails/pdesk-jtl.jpg",
+      "model": "models/glb-legacy/PDESK-JTL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PDESK JTR",
+      "image": "models/thumbnails/pdesk-jtr.jpg",
+      "model": "models/glb-legacy/PDESK-JTR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PDESK PTL",
+      "image": "models/thumbnails/pdesk-ptl.jpg",
+      "model": "models/glb-legacy/PDESK-PTL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PDESK PTR",
+      "image": "models/thumbnails/pdesk-ptr.jpg",
+      "model": "models/glb-legacy/PDESK-PTR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PDESK RTL",
+      "image": "models/thumbnails/pdesk-rtl.jpg",
+      "model": "models/glb-legacy/PDESK-RTL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PDESK RTR",
+      "image": "models/thumbnails/pdesk-rtr.jpg",
+      "model": "models/glb-legacy/PDESK-RTR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED MP BBBBL",
+      "image": "models/thumbnails/ped-mp-bbbbl.jpg",
+      "model": "models/glb-legacy/PED-MP-BBBBL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED MP BBBBLT",
+      "image": "models/thumbnails/ped-mp-bbbblt.jpg",
+      "model": "models/glb-legacy/PED-MP-BBBBLT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED MP BBFL",
+      "image": "models/thumbnails/ped-mp-bbfl.jpg",
+      "model": "models/glb-legacy/PED-MP-BBFL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED MP BBFLT",
+      "image": "models/thumbnails/ped-mp-bbflt.jpg",
+      "model": "models/glb-legacy/PED-MP-BBFLT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED MP BBL",
+      "image": "models/thumbnails/ped-mp-bbl.jpg",
+      "model": "models/glb-legacy/PED-MP-BBL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED MP BBLT",
+      "image": "models/thumbnails/ped-mp-bblt.jpg",
+      "model": "models/glb-legacy/PED-MP-BBLT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED MP BBOL",
+      "image": "models/thumbnails/ped-mp-bbol.jpg",
+      "model": "models/glb-legacy/PED-MP-BBOL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED MP BBOLT",
+      "image": "models/thumbnails/ped-mp-bbolt.jpg",
+      "model": "models/glb-legacy/PED-MP-BBOLT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED MP FBBL",
+      "image": "models/thumbnails/ped-mp-fbbl.jpg",
+      "model": "models/glb-legacy/PED-MP-FBBL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED MP FBBLT",
+      "image": "models/thumbnails/ped-mp-fbblt.jpg",
+      "model": "models/glb-legacy/PED-MP-FBBLT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED MP LL",
+      "image": "models/thumbnails/ped-mp-ll.jpg",
+      "model": "models/glb-legacy/PED-MP-LL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED MP LLT",
+      "image": "models/thumbnails/ped-mp-llt.jpg",
+      "model": "models/glb-legacy/PED-MP-LLT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED MP OBBL",
+      "image": "models/thumbnails/ped-mp-obbl.jpg",
+      "model": "models/glb-legacy/PED-MP-OBBL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED MP OBBLT",
+      "image": "models/thumbnails/ped-mp-obblt.jpg",
+      "model": "models/glb-legacy/PED-MP-OBBLT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED MP OLBBT",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-MP-OLBBT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP BBFOL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-BBFOL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP BBFOLT",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-BBFOLT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP BBFOR",
+      "image": "models/thumbnails/ped-op-bbfor.jpg",
+      "model": "models/glb-legacy/PED-OP-BBFOR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP BBFORT",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-BBFORT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP BFOL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-BFOL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP BFOLT",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-BFOLT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP BFOR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-BFOR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP BFORT",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-BFORT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP FFOL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-FFOL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP FFOLT",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-FFOLT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP FFOR",
+      "image": "models/thumbnails/ped-op-ffor.jpg",
+      "model": "models/glb-legacy/PED-OP-FFOR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP FFORT",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-FFORT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP MBBFOL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-MBBFOL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP MBBFOR",
+      "image": "models/thumbnails/ped-op-mbbfor.jpg",
+      "model": "models/glb-legacy/PED-OP-MBBFOR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP MBFOL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-MBFOL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP MBFOR",
+      "image": "models/thumbnails/ped-op-mbfor.jpg",
+      "model": "models/glb-legacy/PED-OP-MBFOR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP MFFOL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-MFFOL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP MFFOR",
+      "image": "models/thumbnails/ped-op-mffor.jpg",
+      "model": "models/glb-legacy/PED-OP-MFFOR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP MOLBBF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-MOLBBF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP MOLBF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-MOLBF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP MOLFF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-MOLFF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP OLBBF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-OLBBF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP OLBF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-OLBF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP OLFF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-OLFF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP ORBBF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-ORBBF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP ORBF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-ORBF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED OP ORFF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-OP-ORFF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED SP BBF",
+      "image": "models/thumbnails/ped-sp-bbf.jpg",
+      "model": "models/glb-legacy/PED-SP-BBF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED SP BBFT",
+      "image": "models/thumbnails/ped-sp-bbft.jpg",
+      "model": "models/glb-legacy/PED-SP-BBFT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED SP BD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-SP-BD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED SP BF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-SP-BF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED SP BFT",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-SP-BFT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED SP DB",
+      "image": "models/thumbnails/ped-sp-db.jpg",
+      "model": "models/glb-legacy/PED-SP-DB.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED SP FF",
+      "image": "models/thumbnails/ped-sp-ff.jpg",
+      "model": "models/glb-legacy/PED-SP-FF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED SP FFT",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PED-SP-FFT.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED SP HBF",
+      "image": "models/thumbnails/ped-sp-hbf.jpg",
+      "model": "models/glb-legacy/PED-SP-HBF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED SP MBBF",
+      "image": "models/thumbnails/ped-sp-mbbf.jpg",
+      "model": "models/glb-legacy/PED-SP-MBBF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED SP MBF",
+      "image": "models/thumbnails/ped-sp-mbf.jpg",
+      "model": "models/glb-legacy/PED-SP-MBF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PED SP MFF",
+      "image": "models/thumbnails/ped-sp-mff.jpg",
+      "model": "models/glb-legacy/PED-SP-MFF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Pillow",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/pillow.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PillowBlue",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/pillowBlue.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PillowBlueLong",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/pillowBlueLong.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PillowLong",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/pillowLong.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PlantSmall1",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/plantSmall1.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PlantSmall2",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/plantSmall2.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PlantSmall3",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/plantSmall3.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] POST 120",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/POST-120.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PottedPlant",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/pottedPlant.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST CSL NS GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-CSL-NS-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST CSL NS PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-CSL-NS-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST CSR NS GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-CSR-NS-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST CSR NS PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-CSR-NS-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST FLCL BBF GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-FLCL-BBF-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST FLCL BBF PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-FLCL-BBF-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST FLCL FF GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-FLCL-FF-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST FLCL FF PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-FLCL-FF-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST FLCR BBF GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-FLCR-BBF-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST FLCR BBF PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-FLCR-BBF-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST FLCR FF GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-FLCR-FF-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST FLCR FF PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-FLCR-FF-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST FLL BBF GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-FLL-BBF-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST FLL BBF PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-FLL-BBF-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST FLL FF GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-FLL-FF-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST FLL FF PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-FLL-FF-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST FLR BBF GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-FLR-BBF-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST FLR BBF PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-FLR-BBF-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST FLR FF GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-FLR-FF-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST FLR FF PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-FLR-FF-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST OP BBF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-OP-BBF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST OP FF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-OP-FF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST OPCL BBF GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-OPCL-BBF-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST OPCL BBF PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-OPCL-BBF-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST OPCL FF GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-OPCL-FF-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST OPCL FF PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-OPCL-FF-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST OPCR BBF GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-OPCR-BBF-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST OPCR BBF PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-OPCR-BBF-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST OPCR FF GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-OPCR-FF-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST OPCR FF PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-OPCR-FF-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST SLCL BBF GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-SLCL-BBF-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST SLCL BBF PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-SLCL-BBF-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST SLCL FF GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-SLCL-FF-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST SLCL FF PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-SLCL-FF-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST SLCR BBF GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-SLCR-BBF-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST SLCR BBF PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-SLCR-BBF-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST SLCR FF GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-SLCR-FF-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST SLCR FF PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-SLCR-FF-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST SLL BBF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-SLL-BBF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST SLL FF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-SLL-FF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST SLR BBF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-SLR-BBF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] PST SLR FF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/PST-SLR-FF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Puertita",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/puertita.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Radio",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/radio.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN 8281 MUEBLE W",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-8281-MUEBLE-W.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN 8281 MUEBLE W (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-8281-MUEBLE-W (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN 8301 MUEBLE N",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-8301-MUEBLE-N.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN 8301 MUEBLE N (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-8301-MUEBLE-N (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN 8302 MUEBLE BE",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-8302-MUEBLE-BE.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN 8302 MUEBLE BE (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-8302-MUEBLE-BE (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN 8302 MUEBLE WE",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-8302-MUEBLE-WE.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN 8302 MUEBLE WE (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-8302-MUEBLE-WE (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN 8304 MUEBLE BL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-8304-MUEBLE-BL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN 8304 MUEBLE BL (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-8304-MUEBLE-BL (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN 8307 MUEBLE BE",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-8307-MUEBLE-BE.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN 8307 MUEBLE BE (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-8307-MUEBLE-BE (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN 8307 MUEBLE N",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-8307-MUEBLE-N.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN 8307 MUEBLE N (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-8307-MUEBLE-N (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN 8308 MUEBLE BL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-8308-MUEBLE-BL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN 8308 MUEBLE BL (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-8308-MUEBLE-BL (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN R900 MUEBLE BL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-R900-MUEBLE-BL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RN R900 MUEBLE BL (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/RN-R900-MUEBLE-BL (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RPL 2",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/RPL-2.5.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RTN BML",
+      "image": "models/thumbnails/rtn-bml.jpg",
+      "model": "models/glb-legacy/RTN-BML.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RTN BMR",
+      "image": "models/thumbnails/rtn-bmr.jpg",
+      "model": "models/glb-legacy/RTN-BMR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RTN RL",
+      "image": "models/thumbnails/rtn-rl.jpg",
+      "model": "models/glb-legacy/RTN-RL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RTN RR",
+      "image": "models/thumbnails/rtn-rr.jpg",
+      "model": "models/glb-legacy/RTN-RR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RTN WL",
+      "image": "models/thumbnails/rtn-wl.jpg",
+      "model": "models/glb-legacy/RTN-WL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RTN WR",
+      "image": "models/thumbnails/rtn-wr.jpg",
+      "model": "models/glb-legacy/RTN-WR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RugDoormat",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/rugDoormat.glb",
+      "type": "7",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RugRectangle",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/rugRectangle.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RugRound",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/rugRound.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RugRounded",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/rugRounded.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] RugSquare",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/rugSquare.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] S 036 PANEL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/S-036-PANEL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] S 036 PANEL (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/S-036-PANEL (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] S 043 PANEL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/S-043-PANEL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] S 043 PANEL (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/S-043-PANEL (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Scene (11)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/scene (11).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Scene (29)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/scene (29).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Scene (39)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/scene (39).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Scene (41)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/scene (41).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Scene (41) (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/scene (41) (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Scene (42)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/scene (42).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Scene (43)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/scene (43).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Scene (44)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/scene (44).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SCR AS DS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SCR-AS-DS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SCR AS FM",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SCR-AS-FM.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SCR AS NB",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SCR-AS-NB.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SCR AS SS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SCR-AS-SS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SCR LS DS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SCR-LS-DS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SCR LS FM",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SCR-LS-FM.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SCR LS NB",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SCR-LS-NB.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SCR LS SS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SCR-LS-SS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SE713C 90 MAMPARA",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/SE713C-90-MAMPARA.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SE713C 90 MAMPARA (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/SE713C-90-MAMPARA (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Shower",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/shower.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] ShowerRound",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/showerRound.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SideTable",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/sideTable.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SideTableDrawers",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/sideTableDrawers.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SimpleCabinet",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/SimpleCabinet.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Speaker",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/speaker.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SpeakerSmall",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/speakerSmall.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SR206 CABINA",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/SR206-CABINA.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SR206 CABINA (1)",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/SR206-CABINA (1).glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC 2D GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-2D-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC 2D PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-2D-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC 2DC GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-2DC-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC 2DC PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-2DC-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC LD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-LD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC LD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-LD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC LDC GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-LDC-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC LDC PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-LDC-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC LORD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-LORD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC LORD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-LORD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC LORDC GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-LORDC-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC LORDC PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-LORDC-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC OP",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-OP.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC OPC",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-OPC.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC RD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-RD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC RD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-RD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC RDC GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-RDC-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC RDC PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-RDC-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC ROLD GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-ROLD-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC ROLD PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-ROLD-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC ROLDC GD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-ROLDC-GD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] SSC ROLDC PD",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/SSC-ROLDC-PD.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Stairs",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/stairs.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] StairsCorner",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/stairsCorner.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] StairsOpen",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/stairsOpen.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] StairsOpenSingle",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/stairsOpenSingle.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Steel Bin",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/steel_bin.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] StoolBar",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/stoolBar.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] StoolBarSquare",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/stoolBarSquare.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Table",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/table.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] TableCloth",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/tableCloth.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] TableCoffee",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/tableCoffee.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] TableCoffeeGlass",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/tableCoffeeGlass.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] TableCoffeeGlassSquare",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/tableCoffeeGlassSquare.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] TableCoffeeSquare",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/tableCoffeeSquare.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] TableCross",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/tableCross.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] TableCrossCloth",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/tableCrossCloth.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] TableGlass",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/tableGlass.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] TableRound",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/tableRound.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] TelevisionAntenna",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/televisionAntenna.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] TelevisionModern",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/televisionModern.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] TelevisionVintage",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/televisionVintage.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Test",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/test.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Test",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/test.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Toaster",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/toaster.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Toilet",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/toilet.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] ToiletSquare",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/toiletSquare.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Trashcan",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/trashcan.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Ultimo",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/ultimo .glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Untitled",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/untitled.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] VLEG2 DE4BMS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/VLEG2-DE4BMS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] VLEG2 DE4BOS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/VLEG2-DE4BOS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] VLEG2 DM8BMS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/VLEG2-DM8BMS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] VLEG2 DM8BOS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/VLEG2-DM8BOS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] VLEG2 SE2B",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/VLEG2-SE2B.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] VLEG2 SE2BMS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/VLEG2-SE2BMS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] VLEG2 SM4BMS",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/VLEG2-SM4BMS.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Wall",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/wall.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WallCorner",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/wallCorner.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WallCornerRond",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/wallCornerRond.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WallDoorway",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/wallDoorway.glb",
+      "type": "7",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WallDoorwayWide",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/wallDoorwayWide.glb",
+      "type": "7",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WallHalf",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/wallHalf.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WallWindow",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/wallWindow.glb",
+      "type": "3",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WallWindowSlide",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/wallWindowSlide.glb",
+      "type": "3",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WARD 1DOL 1CR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WARD-1DOL-1CR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WARD 1DOL 2CR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WARD-1DOL-2CR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WARD 1DOR 1CR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WARD-1DOR-1CR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WARD 1DOR 2CR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WARD-1DOR-2CR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WARD 1DS 1CR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WARD-1DS-1CR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WARD 1DS 2CR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WARD-1DS-2CR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WARD 2DHCL 1CR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WARD-2DHCL-1CR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WARD 2DHCL 2CR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WARD-2DHCL-2CR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WARD 2DHCR 1CR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WARD-2DHCR-1CR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WARD 2DHCR 2CR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WARD-2DHCR-2CR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WARD 2DS 1CR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WARD-2DS-1CR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WARD 2DS 2CR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WARD-2DS-2CR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] Washer",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/washer.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WasherDryerStacked",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/special/washerDryerStacked.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS 120",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-120.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS 5SC",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-5SC.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS ARKL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-ARKL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS ARKR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-ARKR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS BF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-BF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS BOOML",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-BOOML.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS BOOMR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-BOOMR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS BOOMRTNL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-BOOMRTNL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS BOOMRTNR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-BOOMRTNR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS DTL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-DTL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS DTR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-DTR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS ECUL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-ECUL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS ECUR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-ECUR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS JTL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-JTL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS JTR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-JTR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS PTL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-PTL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS PTR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-PTR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS RC",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-RC.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS RFF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-RFF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS RRF",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-RRF.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS RRTN",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-RRTN.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS WC",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-WC.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS WRTNL",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-WRTNL.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[GLB] WS WRTNR",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/glb-legacy/WS-WRTNR.glb",
+      "type": "1",
+      "category": "glb"
+    },
+    {
+      "name": "[JSON] Bd Shalebedside Smoke Baked",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/bd-shalebedside-smoke_baked.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] BlakeAvenuejoshuatreecheftable",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/BlakeAvenuejoshuatreecheftable.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Cb Archnight White Baked",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/cb-archnight-white_baked.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Cb Blue Block 60x96",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/cb-blue-block-60x96.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Cb Clapboard Baked",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/cb-clapboard_baked.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Cb Kendallbookcasewalnut Baked",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/cb-kendallbookcasewalnut_baked.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Cb Moore Baked",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/cb-moore_baked.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Cb Rochelle Gray Baked",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/cb-rochelle-gray_baked.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Cb Scholartable Baked",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/cb-scholartable_baked.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Cb Tecs Baked",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/cb-tecs_baked.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Closed Door28x80 Baked",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/closed-door28x80_baked.js",
+      "type": "7",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] DWR MATERA DRESSER2",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/DWR_MATERA_DRESSER2.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Gus Churchchair Whiteoak",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/gus-churchchair-whiteoak.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] GUSossingtonendtable",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/GUSossingtonendtable.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Ik Ekero Blue Baked",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/ik-ekero-blue_baked.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Ik Ekero Orange Baked",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/ik-ekero-orange_baked.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Ik Kivine Baked",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/ik-kivine_baked.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Ik Nordli Full",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/ik_nordli_full.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Ik Stockholmcoffee Brown",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/ik-stockholmcoffee-brown.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Nyc Poster2",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/nyc-poster2.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Open Door",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/open_door.js",
+      "type": "7",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Ore 3legged White Baked",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/ore-3legged-white_baked.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] We Crosby2piece Greenbaked",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/we-crosby2piece-greenbaked.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] We Narrow6white Baked",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/we-narrow6white_baked.js",
+      "type": "1",
+      "category": "json"
+    },
+    {
+      "name": "[JSON] Whitewindow",
+      "image": "models/thumbnails/bin.jpg",
+      "model": "models/js/whitewindow.js",
+      "type": "3",
+      "category": "json"
+    },
+    {
+      "name": "[OBJ] Aquarium",
+      "image": "sweethome3d/contributions/aquarium.png",
+      "model": "sweethome3d/contributions/aquarium.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Armchair",
+      "image": "sweethome3d/armchair.png",
+      "model": "sweethome3d/armchair.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Armchair2",
+      "image": "sweethome3d/contributions/armchair2.png",
+      "model": "sweethome3d/contributions/armchair2.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] BarStool",
+      "image": "sweethome3d/contributions/barStool.png",
+      "model": "sweethome3d/contributions/barStool.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Bath",
+      "image": "sweethome3d/bath.png",
+      "model": "sweethome3d/bath.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Bed140x190",
+      "image": "sweethome3d/bed140x190.png",
+      "model": "sweethome3d/bed140x190.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Bed90x190",
+      "image": "sweethome3d/bed90x190.png",
+      "model": "sweethome3d/bed90x190.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] BedsideTable",
+      "image": "sweethome3d/bedsideTable.png",
+      "model": "sweethome3d/bedsideTable.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Bookcase",
+      "image": "sweethome3d/bookcase.png",
+      "model": "sweethome3d/bookcase.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Bookcase2",
+      "image": "sweethome3d/contributions/bookcase2.png",
+      "model": "sweethome3d/contributions/bookcase2.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] BunkBed90x190",
+      "image": "sweethome3d/bunkBed90x190.png",
+      "model": "sweethome3d/bunkBed90x190.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Chair",
+      "image": "sweethome3d/chair.png",
+      "model": "sweethome3d/chair.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Chair2",
+      "image": "sweethome3d/contributions/chair2.png",
+      "model": "sweethome3d/contributions/chair2.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Chest",
+      "image": "sweethome3d/chest.png",
+      "model": "sweethome3d/chest.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] ClothesWasher",
+      "image": "sweethome3d/clothesWasher.png",
+      "model": "sweethome3d/clothesWasher.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] CoffeeTable",
+      "image": "sweethome3d/contributions/coffeeTable.png",
+      "model": "sweethome3d/contributions/coffeeTable.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] ComputerWorkstation",
+      "image": "sweethome3d/contributions/computerWorkstation.png",
+      "model": "sweethome3d/contributions/computerWorkstation.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Cooker",
+      "image": "sweethome3d/cooker.png",
+      "model": "sweethome3d/cooker.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] CornerBunkBed90x190",
+      "image": "sweethome3d/cornerBunkBed90x190.png",
+      "model": "sweethome3d/cornerBunkBed90x190.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] CornerSofa",
+      "image": "sweethome3d/cornerSofa.png",
+      "model": "sweethome3d/cornerSofa.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] CornerWorkstation",
+      "image": "sweethome3d/contributions/cornerWorkstation.png",
+      "model": "sweethome3d/contributions/cornerWorkstation.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Crib",
+      "image": "sweethome3d/contributions/crib.png",
+      "model": "sweethome3d/contributions/crib.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Curtain",
+      "image": "sweethome3d/contributions/curtain.png",
+      "model": "sweethome3d/contributions/curtain.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] CurtainRod",
+      "image": "sweethome3d/contributions/curtainRod.png",
+      "model": "sweethome3d/contributions/curtainRod.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] CurveStaircase",
+      "image": "sweethome3d/curveStaircase.png",
+      "model": "sweethome3d/curveStaircase.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Desk",
+      "image": "sweethome3d/contributions/desk.png",
+      "model": "sweethome3d/contributions/desk.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Dishwasher",
+      "image": "sweethome3d/dishwasher.png",
+      "model": "sweethome3d/dishwasher.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Door",
+      "image": "sweethome3d/door.png",
+      "model": "sweethome3d/door.obj",
+      "type": "7",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] DoorFrame",
+      "image": "sweethome3d/doorFrame.png",
+      "model": "sweethome3d/doorFrame.obj",
+      "type": "7",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] DoubleFrenchWindow126x200",
+      "image": "sweethome3d/doubleFrenchWindow126x200.png",
+      "model": "sweethome3d/doubleFrenchWindow126x200.obj",
+      "type": "3",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] DoubleHungWindow80x122",
+      "image": "sweethome3d/doubleHungWindow80x122.png",
+      "model": "sweethome3d/doubleHungWindow80x122.obj",
+      "type": "3",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] DoubleWindow126x123",
+      "image": "sweethome3d/doubleWindow126x123.png",
+      "model": "sweethome3d/doubleWindow126x123.obj",
+      "type": "3",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] DoubleWindow126x163",
+      "image": "sweethome3d/doubleWindow126x163.png",
+      "model": "sweethome3d/doubleWindow126x163.obj",
+      "type": "3",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Dresser",
+      "image": "sweethome3d/contributions/dresser.png",
+      "model": "sweethome3d/contributions/dresser.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] ElectricRadiator",
+      "image": "sweethome3d/electricRadiator.png",
+      "model": "sweethome3d/electricRadiator.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Fireplace",
+      "image": "sweethome3d/contributions/fireplace.png",
+      "model": "sweethome3d/contributions/fireplace.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] FittedBath",
+      "image": "sweethome3d/fittedBath.png",
+      "model": "sweethome3d/fittedBath.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] FivePanesWindow",
+      "image": "sweethome3d/contributions/fivePanesWindow.png",
+      "model": "sweethome3d/contributions/fivePanesWindow.obj",
+      "type": "3",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] FixedWindow85x123",
+      "image": "sweethome3d/fixedWindow85x123.png",
+      "model": "sweethome3d/fixedWindow85x123.obj",
+      "type": "3",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] FloorUplight",
+      "image": "sweethome3d/floorUplight.png",
+      "model": "sweethome3d/floorUplight.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] FrenchWindow85x200",
+      "image": "sweethome3d/frenchWindow85x200.png",
+      "model": "sweethome3d/frenchWindow85x200.obj",
+      "type": "3",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Fridge",
+      "image": "sweethome3d/fridge.png",
+      "model": "sweethome3d/fridge.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] FridgeFreezer",
+      "image": "sweethome3d/fridgeFreezer.png",
+      "model": "sweethome3d/fridgeFreezer.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] GarageDoor",
+      "image": "sweethome3d/contributions/garageDoor.png",
+      "model": "sweethome3d/contributions/garageDoor.obj",
+      "type": "7",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] GlassDoorCabinet",
+      "image": "sweethome3d/contributions/glassDoorCabinet.png",
+      "model": "sweethome3d/contributions/glassDoorCabinet.obj",
+      "type": "7",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] HotWaterRadiator",
+      "image": "sweethome3d/hotWaterRadiator.png",
+      "model": "sweethome3d/hotWaterRadiator.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] KitchenCabinet",
+      "image": "sweethome3d/kitchenCabinet.png",
+      "model": "sweethome3d/kitchenCabinet.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] LightSource",
+      "image": "sweethome3d/lightSource.png",
+      "model": "sweethome3d/lightSource.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] LoftBed140x190",
+      "image": "sweethome3d/loftBed140x190.png",
+      "model": "sweethome3d/loftBed140x190.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] OpenDoor",
+      "image": "sweethome3d/openDoor.png",
+      "model": "sweethome3d/openDoor.obj",
+      "type": "7",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] PendantLamp",
+      "image": "sweethome3d/pendantLamp.png",
+      "model": "sweethome3d/pendantLamp.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Piano",
+      "image": "sweethome3d/piano.png",
+      "model": "sweethome3d/piano.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Plant",
+      "image": "sweethome3d/plant.png",
+      "model": "sweethome3d/plant.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Railing",
+      "image": "sweethome3d/contributions/railing.png",
+      "model": "sweethome3d/contributions/railing.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] RectangularTable",
+      "image": "sweethome3d/contributions/rectangularTable.png",
+      "model": "sweethome3d/contributions/rectangularTable.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] RoundedEdgesRailing",
+      "image": "sweethome3d/contributions/roundedEdgesRailing.png",
+      "model": "sweethome3d/contributions/roundedEdgesRailing.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] RoundTable",
+      "image": "sweethome3d/roundTable.png",
+      "model": "sweethome3d/roundTable.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] ServiceHatch",
+      "image": "sweethome3d/serviceHatch.png",
+      "model": "sweethome3d/serviceHatch.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Shower",
+      "image": "sweethome3d/shower.png",
+      "model": "sweethome3d/shower.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Sink",
+      "image": "sweethome3d/sink.png",
+      "model": "sweethome3d/sink.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] SliderWindow126x200",
+      "image": "sweethome3d/sliderWindow126x200.png",
+      "model": "sweethome3d/sliderWindow126x200.obj",
+      "type": "3",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] SlidingDoors",
+      "image": "sweethome3d/slidingDoors.png",
+      "model": "sweethome3d/slidingDoors.obj",
+      "type": "7",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Sofa",
+      "image": "sweethome3d/sofa.png",
+      "model": "sweethome3d/sofa.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] SpiralStaircase",
+      "image": "sweethome3d/contributions/spiralStaircase.png",
+      "model": "sweethome3d/contributions/spiralStaircase.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Spotlight",
+      "image": "sweethome3d/spotlight.png",
+      "model": "sweethome3d/spotlight.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] SquareCoffeeTable",
+      "image": "sweethome3d/contributions/squareCoffeeTable.png",
+      "model": "sweethome3d/contributions/squareCoffeeTable.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] SquareTable",
+      "image": "sweethome3d/squareTable.png",
+      "model": "sweethome3d/squareTable.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Staircase",
+      "image": "sweethome3d/staircase.png",
+      "model": "sweethome3d/staircase.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Stool",
+      "image": "sweethome3d/stool.png",
+      "model": "sweethome3d/stool.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Table",
+      "image": "sweethome3d/contributions/table.png",
+      "model": "sweethome3d/contributions/table.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] TexturableBox",
+      "image": "",
+      "model": "sweethome3d/texturableBox/texturableBox.obj",
+      "type": "1",
+      "category": "obj",
+      "mtlUrl": "sweethome3d/texturableBox/texturableBox.mtl"
+    },
+    {
+      "name": "[OBJ] TexturableCylinder",
+      "image": "",
+      "model": "sweethome3d/texturableCylinder/texturableCylinder.obj",
+      "type": "1",
+      "category": "obj",
+      "mtlUrl": "sweethome3d/texturableCylinder/texturableCylinder.mtl"
+    },
+    {
+      "name": "[OBJ] ToiletUnit",
+      "image": "sweethome3d/toiletUnit.png",
+      "model": "sweethome3d/toiletUnit.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] TvUnit",
+      "image": "sweethome3d/tvUnit.png",
+      "model": "sweethome3d/tvUnit.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] VenetianBlind",
+      "image": "sweethome3d/contributions/venetianBlind.png",
+      "model": "sweethome3d/contributions/venetianBlind.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] WallUplight",
+      "image": "sweethome3d/wallUplight.png",
+      "model": "sweethome3d/wallUplight.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Wardrobe",
+      "image": "sweethome3d/wardrobe.png",
+      "model": "sweethome3d/wardrobe.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Washbasin",
+      "image": "sweethome3d/washbasin.png",
+      "model": "sweethome3d/washbasin.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] WashbasinWithCabinet",
+      "image": "sweethome3d/washbasinWithCabinet.png",
+      "model": "sweethome3d/washbasinWithCabinet.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Window85x123",
+      "image": "sweethome3d/window85x123.png",
+      "model": "sweethome3d/window85x123.obj",
+      "type": "3",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Window85x163",
+      "image": "sweethome3d/window85x163.png",
+      "model": "sweethome3d/window85x163.obj",
+      "type": "3",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] Workbench",
+      "image": "sweethome3d/contributions/workbench.png",
+      "model": "sweethome3d/contributions/workbench.obj",
+      "type": "1",
+      "category": "obj"
+    },
+    {
+      "name": "[OBJ] WorkLamp",
+      "image": "sweethome3d/workLamp.png",
+      "model": "sweethome3d/workLamp.obj",
+      "type": "1",
+      "category": "obj"
+    }
+  ]
+}
